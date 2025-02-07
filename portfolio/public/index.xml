@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aarti&#39;s Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Aarti&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2025 19:55:28 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 06 Feb 2025 19:55:28 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Contact information:&lt;/p&gt;&#xA;&lt;p&gt;Phone - 202-420-1154&lt;/p&gt;&#xA;&lt;p&gt;School Email - &lt;a href=&#34;mailto:aartisab@seas.upenn.edu&#34;&gt;aartisab@seas.upenn.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Home Email - &lt;a href=&#34;mailto:aarti.sabharwal1@gmail.com&#34;&gt;aarti.sabharwal1@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Thu, 06 Feb 2025 19:52:47 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;Résumé&lt;/p&gt;&#xA;&lt;p&gt;University of Pennsylvania - Computer Engineering &amp;lsquo;27&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 06 Feb 2025 19:04:36 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my About page.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
